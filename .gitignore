@@ -1,0 +1,14 @@
+# Archivos compilados
+target/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Secretos (NUNCA subir esto)
+.env
+application-secrets.yml
