@@ -1,4 +1,8 @@
-package com.cine;
+package com.ecommerce.service;
+
+import com.ecommerce.model.Order;
+import com.ecommerce.model.Product;
+import com.ecommerce.model.User;
 
 import java.util.ArrayList;
 import java.util.List;

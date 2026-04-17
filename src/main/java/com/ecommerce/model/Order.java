@@ -1,4 +1,4 @@
-package com.cine;
+package com.ecommerce.model;
 
 public class Order {
 
